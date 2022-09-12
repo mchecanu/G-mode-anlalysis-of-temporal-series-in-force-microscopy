@@ -1,6 +1,10 @@
 # G-mode-anlalysis-of-temporal-series-in-force-microscopy
 
-This is the notebook I used for the data analysis of the Article: M.Checa et. al "Simultaneous mapping of nanoscale dielectric, electrochemical, and ferroelectric surface properties of van der Waals layered ferroelectric via advanced SPM", Applied Physics Letters (2021).
+This is the notebook I used for the data analysis of the Articles: 
+
+M.Checa et. al "Simultaneous mapping of nanoscale dielectric, electrochemical, and ferroelectric surface properties of van der Waals layered ferroelectric via advanced SPM", Applied Physics Letters (2021).
+
+M.Checa et. al "Revealing Fast Cu-Ion Transport and Enhanced Conductivity at the CuInP2S6–In4/3P2S6 Heterointerface", ACS Nano (2022).
 
 Structure:
   1. Importing Tunning Data
